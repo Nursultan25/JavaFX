@@ -1,0 +1,32 @@
+.text-field{
+    -fx-text-fill: white;
+}
+
+#userInfoButton, #userPassButton{
+    -fx-background-color: transparent;
+    -fx-alignment: center-left;
+    -fx-font-weight: 700;
+    -fx-font-size: 14;
+    -fx-border-style: none;
+}
+
+#userInfoButton:hover{
+    -fx-font-size: 16;
+    -fx-background-color: rgba(255,255,255,0.15688025210084029);
+}
+
+#userPassButton:hover{
+    -fx-font-size: 16;
+    -fx-background-color: rgba(255,255,255,0.15688025210084029);
+}
+
+#userInfoButton:focused{
+    -fx-font-size: 16;
+    -fx-background-color: rgba(255,255,255,0.15688025210084029);
+}
+
+#userPassButton:focused{
+    -fx-font-size: 16;
+    -fx-background-color: rgba(255,255,255,0.15688025210084029);
+}
+

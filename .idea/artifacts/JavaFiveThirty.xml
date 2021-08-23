@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="JavaFiveThirty">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFiveThirty</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="kg.itschool.booking.Booking" />
+        <option name="convertCss2Bin" value="true" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="JavaFiveThirty.jar">
+        <element id="module-output" name="JavaFiveThirty" />
+      </element>
+    </root>
+  </artifact>
+</component>
